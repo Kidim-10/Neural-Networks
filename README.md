@@ -1,3 +1,4 @@
 # Neural-Networks
 
-Experiment with NNs
+Experiment with NNss
+
